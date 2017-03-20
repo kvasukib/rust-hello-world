@@ -14,4 +14,4 @@ Steps to run:
 
 ## Author
 
-[kvasukib](https://twitter.com/Karthikvb17)
+[@kvasukib](https://twitter.com/Karthikvb17)
